@@ -1,5 +1,5 @@
-#ifndef RTREE_723OCT21_H
-#define RTREE_723OCT21_H
+#ifndef FRESHAIR_GQ_H
+#define FRESHAIR_GQ_H
 
 #include <stdio.h>
 #include <math.h>
@@ -2895,5 +2895,5 @@ std::pair<int, int> RTREE_QUAL::CountLeaves(){
 #undef RTREE_TEMPLATE
 #undef RTREE_QUAL
 
-#endif //RTREE_723OCT21_H
+#endif //FRESHAIR_GQ_H
 
